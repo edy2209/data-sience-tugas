@@ -10,6 +10,7 @@ Berikut Hasil Visual data Akhir,dimana data di ambil dari data Dp.csv:
 ![10 Data](asset/10%20data.png)
 
 # Hasil Data waktu ke waktu
-![Data waktu ke waktu](asset/waktu%ke%waktu.png)
+![Data waktu ke waktu](assets/waktu%20ke%20waktu.png)
+
 
 
