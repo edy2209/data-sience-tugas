@@ -6,5 +6,5 @@
 </p>
 
 # Hasil 10 Data
-![10 Data](assets/10%20data.png)
+![10 Data](asset/10%20data.png)
 
