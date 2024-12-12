@@ -6,4 +6,4 @@
 </p>
 
 # Hasil 10 Data
-![Undangan Online Thumbnail](10 data.png)
+![10 Data](\10 data.png)
