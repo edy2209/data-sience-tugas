@@ -1,4 +1,4 @@
-# Tugas Data Sience
+# Data-Sience
 # Nama : Edy Syafrianto
 # Nim  : 225520211002
 <p align="center">
@@ -11,6 +11,12 @@ Berikut Hasil Visual data Akhir,dimana data di ambil dari data Dp.csv:
 
 # Hasil Data waktu ke waktu
 ![Data waktu ke waktu](asset/waktu.png)
+
+# Visual Februari
+![Data waktu Februari](asset/februari.png)
+
+# Visual Agustus
+![Data waktu Februari](asset/agustus.png)
 
 
 
